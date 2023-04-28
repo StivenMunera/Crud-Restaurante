@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\bin\Debug\CrudRestau.exe.config
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\bin\Debug\CrudRestau.exe
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\bin\Debug\CrudRestau.pdb
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.Form1.resources
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.Properties.Resources.resources
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.exe
+C:\Users\Usuario\Desktop\IUE SEXTO SEMESTRE\POO\Proyecto1\ProyectoFinal\CrudRestau\obj\Debug\CrudRestau.pdb
